@@ -24,7 +24,10 @@
           <option value="lost">Lost 😢</option>
           <option value="found">Found 😃</option>
         </select>
-        <input type="text" id="image" placeholder="Image URL 🖼 (optional)"/>
+        <input type="file" id="image" accept="image/*"/>
+        <label>
+          <input type="checkbox" id="notifyMe" /> Notify me if a matching item is posted
+        </label>
         <button type="submit">Submit ✅</button>
       </form>
     </section>
@@ -33,6 +36,10 @@
       <h2>Items List 📋</h2>
       <div id="items"></div>
     </section>
+    
+    <!-- Notification container -->
+    <div id="notification-container"></div>
+
   </main>
 
   <script src="script.js"></script>
