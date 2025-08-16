@@ -28,14 +28,16 @@ FindIt is a Lost & Found platform for university students. Students can report l
 
 **Image Handling:** FileReader API for image upload & Base64 encoding
 
-
-
-
-
-
-
-
-
+## Project Structure
+```
+FindIt/
+│
+├─ index.html # Main HTML file
+├─ style.css # Stylesheet
+├─ script.js # JavaScript for app functionality
+├─ images/ # Optional folder for sample images
+└─ README.md # Project documentation
+```
 
 ## 🎨 Demo / Screenshots
 Form & Items List
