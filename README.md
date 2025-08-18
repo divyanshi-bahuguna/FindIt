@@ -68,15 +68,17 @@ Search instantly to find relevant items on campus.
 
 ## 💡 Future Enhancements
 
+**Gamification:** badges, points, or streaks for contributors.
+
+**Login system:** Authentication using university portal (college URL + email/number).
+
+**Chat section:** Direct communication between the person who lost an item and the finder.
+
 Backend integration for persistent storage (Node.js + MongoDB/Firebase).
 
 Email or push notifications for real-world alerts.
 
-AI-assisted image recognition for automatic tagging.
-
 Map view to show last seen locations of items.
-
-Gamification: badges, points, or streaks for contributors.
 
 ## 📌 Why This Project is MLH-Ready
 
