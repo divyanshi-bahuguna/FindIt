@@ -39,6 +39,18 @@ FindIt/
 └─ README.md # Project documentation
 ```
 
+## 🎨 Demo / Screenshots  
+
+### Form & Items List  
+![Full page](./images/full-view.png.png)  
+
+### Item-List
+![Item-List](./images/item-list.png.png)  
+
+### Adding-Info
+![Adding-infot](./images/adding-info.png.png)  
+
+
 ## Notifications
 
 Receive stylish notifications when a matching item is posted.
