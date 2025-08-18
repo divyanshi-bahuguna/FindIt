@@ -39,10 +39,17 @@ FindIt/
 └─ README.md # Project documentation
 ```
 
-## 🎨 Demo / Screenshots
-Form & Items List
+## 🎨 Demo / Screenshots  
 
-Report items, upload images, and view the list with download buttons.
+### Form & Items List  
+![Form Screenshot](./images/Full-page-view.png)  
+
+### Information
+![Information Screenshot](./images/adding-info.png)  
+
+### Item-List
+![Item-List Screenshot](./images/item-list.png)    
+
 
 ## Notifications
 
